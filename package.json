@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-azure-static-web-app-redirects",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gatsby plugin to render redirects into a routes.json file at public/routes.json",
   "main": "gatsby-node.js",
   "repository": "git@github.com:ahmettahasakar/gatsby-plugin-azure-static-web-app-redirects.git",
